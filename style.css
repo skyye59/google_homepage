@@ -11,6 +11,7 @@ nav ul {
   justify-content: flex-end;
   align-items: center;
   margin: 10px 0;
+  color: rgba(0, 0, 0, 0.87);
 }
 
 li {
